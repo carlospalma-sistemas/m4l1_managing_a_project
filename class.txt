@@ -1,0 +1,12 @@
+Crimson
+Orange
+Green
+Cyan
+Yellow
+Khaki
+Coral
+Silver
+Fuchsia
+Gray
+Brown
+Red
